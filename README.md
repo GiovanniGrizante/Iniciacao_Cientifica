@@ -1,0 +1,1 @@
+- Verificar se o diretório nas células a serem trabalhadas estão definidas corretamente.
