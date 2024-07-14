@@ -1,1 +1,3 @@
+- Gerar as tabelas referente à eletricidade e emissões geradas pelas usinas termelétricas, fornecidos pelo Instituto de Energia e Meio Ambiente (IEMA).
+- Baixar os dados de geração horária, disponibilizados pela ONS, dos anos correspondentes aos anos dos relatórios fornecidos pelo IEMA.
 - Verificar se o diretório nas células a serem trabalhadas estão definidas corretamente.
